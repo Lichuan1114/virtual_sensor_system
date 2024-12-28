@@ -1,0 +1,3 @@
+/Users/chuansmac/Desktop/virtual_sensor_system/cpp/build/CMakeFiles/sensor_simulation.dir
+/Users/chuansmac/Desktop/virtual_sensor_system/cpp/build/CMakeFiles/edit_cache.dir
+/Users/chuansmac/Desktop/virtual_sensor_system/cpp/build/CMakeFiles/rebuild_cache.dir
