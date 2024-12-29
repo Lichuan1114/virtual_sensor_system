@@ -76,34 +76,34 @@ To build and run the project, you will need:
 
 ### Directory Structure
 
-virtual_sensor_system/
-├── cpp/
-│   ├── Controller/
-│   │   ├── Controller.h
-│   │   └── Controller.cpp
-│   ├── Sensors/
-│   │   ├── Sensor.h
-│   │   ├── Sensor.cpp
-│   │   ├── SensorEvent.h
-│   │   ├── TemperatureSensor.h
-│   │   ├── TemperatureSensor.cpp
-│   │   ├── LightSensor.h
-│   │   ├── LightSensor.cpp
-│   │   ├── MotionSensor.h
-│   │   └── MotionSensor.cpp
-│   ├── TriggerManager/
-│   │   ├── TriggerManager.h
-│   │   └── TriggerManager.cpp
-│   ├── Utils/
-│   │   └── TimeUtils.h
-│   ├── output/
-│   │   └── sensor_logs.csv
-│   ├── main.cpp
-│   └── CMakeLists.txt
-├── python/
-│   ├── visualize_data.py 
-│   └── requirements.txt 
-└── docs/
-    ├── README.md 
-    └── DESIGN.md 
+virtual_sensor_system/  
+├── cpp/  
+│   ├── Controller/  
+│   │   ├── Controller.h  
+│   │   └── Controller.cpp  
+│   ├── Sensors/  
+│   │   ├── Sensor.h  
+│   │   ├── Sensor.cpp  
+│   │   ├── SensorEvent.h  
+│   │   ├── TemperatureSensor.h  
+│   │   ├── TemperatureSensor.cpp  
+│   │   ├── LightSensor.h  
+│   │   ├── LightSensor.cpp  
+│   │   ├── MotionSensor.h  
+│   │   └── MotionSensor.cpp  
+│   ├── TriggerManager/  
+│   │   ├── TriggerManager.h  
+│   │   └── TriggerManager.cpp  
+│   ├── Utils/  
+│   │   └── TimeUtils.h  
+│   ├── output/  
+│   │   └── sensor_logs.csv  
+│   ├── main.cpp  
+│   └── CMakeLists.txt  
+├── python/  
+│   ├── visualize_data.py   
+│   └── requirements.txt  
+└── docs/  
+    ├── README.md   
+    └── DESIGN.md  
 
