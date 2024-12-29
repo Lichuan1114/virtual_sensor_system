@@ -40,20 +40,24 @@ To build and run the project, you will need:
 ### Building the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/
-   cd virtual_sensor_system
+   git clone https://github.com/Lichuan1114/virtual_sensor_system.git
+   cd virtual_sensor_system/cpp
 
 2. Create a build directory:
+   ```bash
    mkdir build
    cd build
 
 3. Run CMake to generate build files:
+   ```bash
    cmake ..
 
 4. Build the project:
+   ```bash
    make
 
 5. Run the executable:
+   ```bash
    ./sensor_simulation
 
 6. The program will generate a log file sensor_logs.csv in the output directory.
@@ -61,10 +65,12 @@ To build and run the project, you will need:
 ### Visualizing the Data
 
 1. Navigate to the Python visualization script directory:
-   cd visualization
+   ```bash
+   cd python
 
 2. Run the script:
-   python visualize.py
+   ```bash
+   python visualize_data.py
 
 3. The generated plots will be saved in the plots directory.
 
