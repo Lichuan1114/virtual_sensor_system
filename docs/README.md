@@ -101,9 +101,8 @@ virtual_sensor_system/
 │   ├── main.cpp  
 │   └── CMakeLists.txt  
 ├── python/  
-│   ├── visualize_data.py   
+│   ├── visualize_data.py  
 │   └── requirements.txt  
 └── docs/  
-    ├── README.md   
+    ├── README.md  
     └── DESIGN.md  
-
