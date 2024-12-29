@@ -75,7 +75,7 @@ To build and run the project, you will need:
 3. The generated plots will be saved in the plots directory.
 
 ### Directory Structure
-
+```
 virtual_sensor_system/  
 ├── cpp/  
 │   ├── Controller/  
@@ -106,3 +106,4 @@ virtual_sensor_system/
 └── docs/  
     ├── README.md  
     └── DESIGN.md  
+```
